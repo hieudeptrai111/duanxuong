@@ -1,0 +1,15 @@
+{
+    "name": "hieu/mvcoop",
+    "autoload": {
+        "psr-4": {
+            "Hieu\\Mvcoop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hieudeptrai111",
+            "email": "hieulmph41756@fpt.edu.vn"
+        }
+    ],
+    "require": {}
+}
